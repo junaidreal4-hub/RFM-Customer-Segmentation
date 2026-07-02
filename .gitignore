@@ -1,0 +1,20 @@
+# Data
+data/raw/
+data/external/
+*.xlsx
+*.xls
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode/
